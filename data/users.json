@@ -1,0 +1,26 @@
+{
+  "koroni@gmail.com": {
+    "name": "Siraj koroni",
+    "email": "koroni@gmail.com",
+    "city": "Karachi",
+    "password": "4a9ca4596692e94f9d2912b06a0d007564a22ee750339a6021c2392149b25d6d",
+    "saved_universities": [],
+    "profile": {}
+  },
+  "sherbazsukaar@gmail.com": {
+    "name": "shakeel",
+    "email": "sherbazsukaar@gmail.com",
+    "city": "Islamabad",
+    "password": "9354b61d510bf81eeb55642c709aedd22b79512a22771d8fb5243c7627619dee",
+    "saved_universities": [],
+    "profile": {}
+  },
+  "ali@gmail.com": {
+    "name": "ali",
+    "email": "ali@gmail.com",
+    "city": "",
+    "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "saved_universities": [],
+    "profile": {}
+  }
+}
